@@ -4,7 +4,7 @@
 
 A manga-inspired developer portfolio built with pure **HTML, CSS, and JavaScript**. Every section is designed like a comic book panel — bold typography, speed lines, halftone textures, and dramatic SFX transitions.
 
-🔗 **Live:** [ajay7136.github.io](https://ajay7136.github.io)
+🔗 **Live:** [ajaylingam7136.github.io](https://ajaylingam7136.github.io/)
 
 ---
 
@@ -63,7 +63,7 @@ Just open `index.html` in your browser — no build step, no dependencies:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Ajay7136/Ajay7136.github.io.git
+git clone https://github.com/AjayLingam7136/AjayLingam7136.github.io
 
 # Open it
 open index.html
@@ -74,7 +74,7 @@ xdg-open index.html
 ## 📬 Contact
 
 - **Email:** [ajaylingam1999@gmail.com](mailto:ajaylingam1999@gmail.com)
-- **GitHub:** [github.com/AjayNiven](https://github.com/AjayNiven)
+- **GitHub:** [github.com/AjayLingam7136](https://github.com/AjayLingam7136)
 - **LinkedIn:** [linkedin.com/in/ajay-r-a401a5194](https://www.linkedin.com/in/ajay-r-a401a5194/)
 
 ---
